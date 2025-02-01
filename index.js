@@ -7,3 +7,5 @@ if(age>18){
 else{
     console.log("You can't drive");
 }
+console.log(`You are ${age} years old`);
+
